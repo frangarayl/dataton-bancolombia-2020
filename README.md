@@ -2,7 +2,9 @@
 
 ### [Proyecto](https://github.com/frangarayl/dataton-bancolombia-2020/tree/master)
 
-Competencia para desarrollar un modelo de cálculo de capacidad de endeudamiento para obtener con mayor precisión el porcentaje de gastos familiares en relación al ingreso de cada individuo.
+Competencia para desarrollar un modelo de cálculo de capacidad de endeudamiento para obtener con mayor precisión el porcentaje de gastos familiares en relación al ingreso de cada individuo. Nuestro modelo finalizó en el puesto Nro. 26.
+
+
 
 ## **Consigna**
 En la nueva normalidad el reconocer con oportunidad y precisión la realidad económica de cada individuo será clave para la realización de diversos planes de trabajo, iniciativas y desarrollos que apalanque la reactivación económica del país. Parte de la realidad económica es el entendimiento del flujo de caja de nuestros clientes; cuáles son sus ingresos y primordialmente cuales son sus gastos básicos o familiares.
