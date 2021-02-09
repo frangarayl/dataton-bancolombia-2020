@@ -9,3 +9,7 @@ En la nueva normalidad el reconocer con oportunidad y precisión la realidad eco
 Los gastos familiares son aquellos pagos fijos o variables cuyo importe se conoce de forma parcial o total de antemano. Estos están directamente relacionados con las necesidades básicas de las personas.
 
 ¿Qué aplicaciones de Aprendizaje de Máquinas se les ocurre que podrían integrarse a un modelo de cálculo de capacidad de endeudamiento para darle mayor precisión al cálculo del % de los gastos familiares en relación al ingreso de cada individuo?
+
+## Índice
+> 1. [EDA y optimización de modelos (stacking)](https://github.com/frangarayl/dataton-bancolombia/blob/master/notebooks/1_EDA_inicial%26limpieza.ipynb)
+> 2. [Test submission](https://github.com/frangarayl/dataton-bancolombia/blob/master/notebooks/2_EDA_profundo%26preprocesamiento.ipynb)
