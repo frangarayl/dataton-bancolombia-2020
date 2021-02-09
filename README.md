@@ -1,6 +1,6 @@
 # Datatón Bancolombia 2020 (4ta edición)
 
-### [Proyecto](https://github.com/frangarayl/dataton-bancolombia/tree/master)
+### [Proyecto](https://github.com/frangarayl/dataton-bancolombia-2020/tree/master)
 
 Competencia para desarrollar un modelo de cálculo de capacidad de endeudamiento para obtener con mayor precisión el porcentaje de gastos familiares en relación al ingreso de cada individuo.
 
@@ -11,5 +11,5 @@ Los gastos familiares son aquellos pagos fijos o variables cuyo importe se conoc
 ¿Qué aplicaciones de Aprendizaje de Máquinas se les ocurre que podrían integrarse a un modelo de cálculo de capacidad de endeudamiento para darle mayor precisión al cálculo del % de los gastos familiares en relación al ingreso de cada individuo?
 
 ## Índice
-> 1. [EDA y optimización de modelos (stacking)](https://github.com/frangarayl/dataton-bancolombia/blob/master/notebooks/1_EDA_inicial%26limpieza.ipynb)
-> 2. [Test submission](https://github.com/frangarayl/dataton-bancolombia/blob/master/notebooks/2_EDA_profundo%26preprocesamiento.ipynb)
+> 1. [EDA y optimización de modelos (stacking)](https://github.com/frangarayl/dataton-bancolombia-2020/blob/master/EDA_model_optimization.ipynb)
+> 2. [Test submission](https://github.com/frangarayl/dataton-bancolombia-2020/blob/master/Test_submission.ipynb)
