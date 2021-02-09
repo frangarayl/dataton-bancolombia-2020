@@ -2,7 +2,7 @@
 
 ### [Proyecto](https://github.com/frangarayl/dataton-bancolombia-2020/tree/master)
 
-Competencia para desarrollar un modelo de cálculo de capacidad de endeudamiento para obtener con mayor precisión el porcentaje de gastos familiares en relación al ingreso de cada individuo. Nuestro modelo finalizó en el puesto Nro. 26.
+Competencia para desarrollar un modelo de cálculo de capacidad de endeudamiento para obtener con mayor precisión el porcentaje de gastos familiares en relación al ingreso de cada individuo. Nuestro modelo finalizó en el puesto Nro. 24.
 
 
 
